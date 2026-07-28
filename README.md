@@ -1,10 +1,11 @@
 ![](img/logo_bg.gif)
 
-## Armadino - an Arduino Gameboy, Clock, Electronic Lab, TVout Console and more...
+## Armadino - an Arduino® clock, electronic lab kit, game console and more...
+# Learn, play, and display! Armadino is a kit for all seasons and reasons
 
 ![](img/armadino.jpg)
 
-**Armadino** is meant to be much more than a Arduino-based handheld gamepad. By attaching appropriate accessories to the expansion pins, it may be turned into a LED clock, a TV game console, an Arduino experiment kit or just about any creative project to control or sense.
+**Armadino** is meant to be much more than a Arduino-based handheld gamepad. By attaching appropriate accessories to the expansion pins, it may be turned into a LED clock, a TV game console, an Arduino® experiment kit or just about any creative project to control or sense.
 
 It is not over-the-top and despite its brutal simplicity, has a colour LED matrix, a score board and 6-button keypad that make it both fun and versatile. Don't just experiment and learn, make something useful with it and proudly display it.
 
